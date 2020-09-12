@@ -8,4 +8,4 @@
 
 [![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Benj&theme=dark)](https://github.com/Ahmed-Benj/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Benj&layout=compact)](ttps://github.com/Ahmed-Benj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Benj&layout=compact&theme=dark)](ttps://github.com/Ahmed-Benj/github-readme-stats)

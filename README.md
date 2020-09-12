@@ -1,19 +1,11 @@
-### Hi there 👋
+### Hello there, Welcome to  Ahmed Ben Jmii's profile ✨
 
-Hello World !
 
-Thanks @Umair
-<!--
-**Ahmed-Benj/Ahmed-Benj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ☀️ I like experimenting with new technologies, building small projects, as well as complex industry standard projects 
+- 🛠 I do maintenance on big projects 
+- ✍️ I currently keep myself busy with web development by building real world class projects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Benj&theme=dark)](https://github.com/Ahmed-Benj/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Benj&layout=compact)](ttps://github.com/Ahmed-Benj/github-readme-stats)
